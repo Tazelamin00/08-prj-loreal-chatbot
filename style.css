@@ -84,18 +84,20 @@ body {
 
 .chat-window {
   height: 410px;
-  border: 1px solid var(--loreal-line);
+  border: 1px solid rgba(255, 255, 255, 0.14);
   padding: 22px;
   font-size: 18px;
   line-height: 1.5;
   overflow-y: auto;
   background: linear-gradient(
     180deg,
-    rgba(28, 28, 28, 0.92),
-    rgba(13, 13, 13, 0.95)
+    rgba(42, 42, 42, 0.9),
+    rgba(19, 19, 19, 0.94)
   );
   border-radius: 16px;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.28);
+  box-shadow:
+    0 20px 40px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
   white-space: pre-line;
   backdrop-filter: blur(2px);
   animation: fade-slide-in 1.1s ease-out;
