@@ -12,3 +12,13 @@ L’Oréal is exploring the power of AI, and your job is to showcase what's poss
 When deploying through Cloudflare, make sure your API request body (in `script.js`) includes a `messages` array and handle the response by extracting `data.choices[0].message.content`.
 
 Enjoy building your L’Oréal beauty assistant! 💄
+
+## 🔤 Typography Reference (Monotype)
+
+For brand-aligned typography direction, review Monotype resources focused on luxury and global branding:
+
+- Global branding fonts: https://www.monotype.com/resources/global-branding-fonts
+- Brand fonts: https://www.monotype.com/resources/tags/brand
+- Case studies index: https://www.monotype.com/resources/case-studies
+
+In this project, the UI uses a high-contrast black/gold palette with elegant headline typography and clean body text to reflect premium beauty-brand styling.
